@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "1587705de731a530",
+    "type": "split",
+    "children": [
+      {
+        "id": "73215a65021f8164",
+        "type": "tabs",
+        "dimension": 39.46700507614214,
+        "children": [
+          {
+            "id": "9815d9c0299e1ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Round Prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13884ede26505d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "322912359b2aab38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Round Prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b209106296e9ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2f3fae0a55f49476",
+        "type": "tabs",
+        "dimension": 60.53299492385787,
+        "children": [
+          {
+            "id": "8dad619569c2f181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b70b0de60d3cdf09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unlocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf620159d639ef7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Round.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eac434d46a9ec72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Round.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be3ab9a1ae9e49f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33726514785c9d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95360e2c39232dae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "854dce0b8dd91402",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b322d1241681d436",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5670e7b4d00d739",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa6d4cbd450c0be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87b9c96b0b91dad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Animals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d61ada018835779a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Animals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ef895157bc84b42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71cf693f750e21b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Animals.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13884ede26505d53",
+  "lastOpenFiles": [
+    "Cards.md",
+    "Game Round.md",
+    "Animals.md",
+    "Jobs.md",
+    "Round Prompt.md",
+    "Controls.md",
+    "Unlocks.md",
+    "Nominations.md",
+    "Decks.md",
+    "Untitled.canvas",
+    "summinsummin.md",
+    "[.md",
+    "AI.md",
+    "vanity options.md"
+  ]
+}
