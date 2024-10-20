@@ -20,6 +20,7 @@ Below is a non-exhaustive list of jobs.  Basically just brainstormed ideas
 	***primary role***: gather wood and fashion wooden items to sell to the town, burn charcoal for the town, gather other resources from the forest area (ie mushrooms, etc)
 - ### abbot/priest/druid/shaman
 	***primary role***: dunno yet.  something religious
+		BEES
 - ### librarian
 	***primary role***: write about something.  Maybe the goings-on of the round, maybe a story, maybe musings on philosophy, or whatever else they like!  These writings would be kept in the castle library and would be persistent across rounds!
 - ### king

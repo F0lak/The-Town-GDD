@@ -1,4 +1,7 @@
 A comprehensive list of all cards, in alphabetical order
+
+#### Arsonist
+Light {building} on fire
 #### Assassinate
 Kill the specified player.
 This is different than [Kill Job](Cards.md#Kill%20Job) because of the information given to the player.
@@ -13,6 +16,8 @@ The player must buy a certain quantity of an item and bring it home
 Breach and capture the specified Area and hold it for 5 minutes
 #### Complete Cards
 Complete all of your cards
+#### Collect Taxes from {jobs}
+Collect taxes from the players with {jobs}
 #### Defend Area
 Don't allow the specified Area to be captured
 #### Drunkard
